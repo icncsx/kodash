@@ -29,8 +29,5 @@
     "test": "echo \"No test specified\""
   },
   "version": "1.0.0",
-  "dependencies": {
-    "@icncsx/kodash": "^1.0.0"
-  },
   "devDependencies": {}
 }
