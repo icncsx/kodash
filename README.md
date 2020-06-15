@@ -13,9 +13,6 @@ npm install @icncsx/kodash
 In Node.js:
 
 ```js
-var _ = require("@icncsx/kodash")
+import _ from "@icncsx/kodash"
 _.head([1,2,3,4]) // 1
 ```
-
-
-
