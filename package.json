@@ -1,0 +1,36 @@
+{
+  "author": {
+    "name": "DH Kim",
+    "email": "icncsx@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/icncsx/kodash/issues"
+  },
+  "type": "module",
+  "deprecated": false,
+  "description": "Lodash clone",
+  "keywords": [
+    "modules",
+    "stdlib",
+    "util"
+  ],
+  "license": "MIT",
+  "main": "src/kodash.js",
+  "name": "@icncsx/kodash",
+  "files": [
+    "dist/*",
+    "src/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icncsx/kodash.git"
+  },
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "@icncsx/kodash": "^1.0.0"
+  },
+  "devDependencies": {}
+}
