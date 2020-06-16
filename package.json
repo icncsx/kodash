@@ -21,6 +21,9 @@
     "dist/*",
     "src/*"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/icncsx/kodash.git"
