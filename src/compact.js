@@ -1,1 +1,1 @@
-export default (arr) => arr.filter(Boolean);
+export default (arr) => arr.filter(Boolean)
